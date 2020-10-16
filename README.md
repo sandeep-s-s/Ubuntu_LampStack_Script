@@ -1,6 +1,6 @@
 # Shell script to install lamp stack in ubuntu
 
-Installing everything required to setup lamp stack on ubuntu system with single shell script
+This script will install everything you neeed to set up LAMP Stack in Ubuntu
 
 License
 ----
